@@ -2,6 +2,8 @@
 
 Simple online shopping webapp with Nodejs and Mongodb
 
+
+
 This project is based on these materials:
 * Course:  [Introduction to MongoDB using the MEAN Stack (edX)](https://www.mooc-list.com/course/introduction-mongodb-using-mean-stack-edx)
 * Youtube: [MEAN stack App](https://www.youtube.com/watch?v=wtIvu085uU0)
